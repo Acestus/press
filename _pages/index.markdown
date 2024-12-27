@@ -6,7 +6,7 @@ layout: home
 permalink: /
 ---
 
-## Hello, Jekyll {#hello-jekyll} Hello, Jekyll!
+## Hello, Jekyll {#hello-jekyll}
 
 Check out these other pages:
 
